@@ -1,0 +1,98 @@
+A summary of Tom's experience is given below
+
+**Bio**
+Once a highly motivated published and well cited researcher, recipient of prestigious awards and scholarships with a track record of top grades at all levels of education. Built a career as lead scientist within several top innovation companies; designing and building new algorithms and hardware to solve previously unsolvable problems. I am an advanced Python programmer and confident with C++ having written professional software with both. AI specialist in the use of CNNs, and the driving force behind the introduction of AI into multiple businesses. Creating innovative new ideas and taking them quickly through to production, release and marketing. Proficient with MLOps and AWS cloud infrastructure.
+
+
+- I use github and gitlab. My github is not public because I have mostly worked on proprietary software.
+
+May 2023 - May 2025 Principal Scientist, Curvebeam AI, Pennsylvania, USA
+
+Leading R&D efforts at a medical device company. I work across all research, development activities and interface with all divisions within the company
+
+- Strategic input into imaging and product development; undertaking an IP acquisition (1M USD) including my own IP from Ibex Innovations. Developing lab capabilities and advanced diagnostics
+- Algorithm development - Grassroots algorithms development using AI, shape modelling, classic image processing amongst others. Solving current problems with CBCT scanners and facilitating their deployment into the field.
+- Team development - Transformative changes in team dynamics, morale and efficiency within the R&D function. Hiring specialist roles.
+- Clinical studies
+- General problem solving; if there’s a mystery, I try and solve it in the most resourceful way I can.
+
+October 2022-May 2023 Lead Data Scientist (short term), 6point6, London
+
+I took a short term role as a lead data scientist at a cybersecurity consultancy firm; leading data science within the company’s portfolio with the UK Home Office
+
+- Won £5M contract with Department for Trade to deploy machine learning solutions involving Large Language Models (LLMs)
+- Leading data science within UK Home Office MBTP team; working with scala, AWS to digest and analyse over 6 billion records held within the immigration data platform. Developing bespoke python tools for analysis and reporting of data to all stakeholders
+- Various activities promoting machine learning with demonstrations and pitches to senior figures within government departments including Defence, Home Office
+- At the home office, I used terraform to deploy different infrastructure. Particularly Glue jobs which run on hundreds of nodes to filter and aggregate 6 billion documents.
+
+May 2022-October 2022 Principal Scientist, Ibex Innovations, UK
+
+My role shifted to lead technical work at the company; focussing on 3D reconstruction, deep learning and clinical trial related activities
+
+- Innovation: Designed, implementing and marketing 3D reconstruction capabilities (DRR, reconstruction, artefact correction). Deep learning applications including real time scatter estimation. Fully automating the companies flagship product using AI; and achieving world leading segmentation performance in all imaging applications. Pioneering the use of synthetic data through the business and developing state of the art particle simulation capabilities.
+- Team Building : Recruiting, managing a team of 4 technical experts to deliver on company objectives, from the ground up. Establishing best practices and company infrastructure to handle deep learning projects.
+- Planning and running major clinical trials with successful outcomes.
+- Managing a team of annotators to label imaging data.
+
+May 2020-May 2022 Technical Lead (AI), Ibex Innovations, UK
+
+In this role I am a technical and managerial lead on all AI work at the company; developing new software capabilities for emerging technology in medical imaging.
+
+- Managing and contributing to Innovate UK Smart Award (£200k); a challenging project in which our main focus is overcoming the data deficit issue in medical imaging to enable large scale training of AI.
+- Creating new deep learning solutions to target the medical imaging market such as; real-time scatter correction, 3D reconstruction, image enhancement and synthetic imaging data
+- Developing new fast simulation software using python, C++ and CUDA.
+- Developing the commercial strategy and vision for AI.
+- Transitioning the company to python away from MATLAB; interfacing various languages to make tools cross platform or cross language.
+- Recruiting, managing, supervising and mentoring the colleagues on my team in their technical skills and commercial awareness.
+- My toolkit : Python (advanced, most common libraries), C++, a little FORTRAN, Github (daily), PyCharm IDE (daily), Jupyter, Visual Studio, Tensorflow and PyTorch, MATLAB, CMake. Various medical imaging tools
+
+November 2018- May 2020 Physicist, Kromek, UK
+
+
+I led the technical work on one of the largest revenue generating projects in the company. I developed algorithms, implement software, and characterised and analysed detectors for innovative new applications. I have developed several new techniques for material identification using x-rays; and have created 5 patent applications to date.
+
+- Data Science, Statistics, Physics, Machine Learning, AI
+- Developing and using AI (primarily deep learning) to detect threat objects inside luggage.
+- Multi-energy detector design and characterization using theoretical simulations (both advanced monte carlo and purpose built ray tracing codes).
+- Writing software in Python to speed up all areas projects (automate equipment usage, simulation tools for x-ray scanning, AI related software).
+- Non science project work includes; interviewing, hiring and supervising staff on my projects, training in radiation safety (I am a qualified RPS). Implementation of many new practices into the software pipelines.
+- Working with, repairing, and modifying hardware (detectors, generators, x-ray scanning equip-ment).
+
+
+March 2018-November 2018 Associate Analyst Programmer, Tessella, Abingdon-on-Thames, UK
+
+- Consultant software engineer and analyst was based at Rutherford Appleton Laboratories in Didcot.
+- Developed new software for the Muon science facilities at the Diamond light source; working with the Mantid collaboration.
+- Developing software (C++, python) using multi-threading, Qt (GUI library) pyqt. I have developed many core algorithms for the Mantid software in C++/python.
+- Software Development : Agile development cycles, unit testing, system architecture, code design patterns.
+- Soft Skills : Developing staff training with weekly discussion meetings and tutorials, developing management skills by coaching and managing placement students.
+
+December 2017 - March 2018 : Data Scientist (short term contract), UK, Sedgefield
+- Machine learning pipeline with a 96% accuracy in binary classification; commercially deployed for client. Further projects were funded.
+- Designing and developing scanning hardware which resulted in a patent application.
+
+**Education** :
+2013-2017 PhD (Theoretical Physics), Durham University, Durham, No corrections (October 2017)
+- Received prestigious Durham Doctoral Scholarship Published three research papers. Research focussed on dark matter, astrophysics, particle physics, statistical treatment of data.
+- Papers : Major contribution (produced all results) to three published papers in reputable journals,
+with 40 citations.
+- Coding : Large experience with coding skills : daily usage of Python, Mathematica, C++,
+minor usage Fortan. Using MacOS/Windows/Linux, LaTeX for typesetting papers and thesis. Visualization using Gimp/InkScape. Machine learning : BDTs, neural networks etc. using scikit-learn/Keras/seaborn/pandas in python.
+- Outreach : Wrote and delivered a 1 hour long talk (2 consecutive days) to post-application A-level students on the subject of ”time”, as part of the ”Particle Physics Masterclass”. I frequently help out during open-days at the Department, giving tours and talks to prospective students.
+- Talks/conference : Several formal research seminars to colleagues in the IPPP. Chaired the Dark Matter session in the YETI meeting of 2014. Attended several conferences and schools; Invisibles 2015 (Madrid), presenting work at ISAPP 2014 (near Turin, Italy), BUSTEPP 2016, Multi-Dark 2016.
+
+2009-2013 Masters MPhys, Durham University, Durham, 1st Class (with honours)
+- Achieved highest overall grade in degree program, and in many individual modules. Received Vice Chancellor Scholarship and other awards.
+- Thesis, 87% : Contribution to arXiv::1307.1347 (959 citations). Awarded over 80% for an
+assessed seminar presenting MPhys thesis, subsequently invited to the “Rising Stars Research Symposium 2013” presenting a poster of my work. Received graphical excellence prize for poster presentation in 2nd year.
+- Industrial Experience : 3.5 months with Superconductivity group, testing superconducting wires for ITER. 6 Weeks with Institute for Computational Cosmology, 3D modelling.
+
+2007-2009 A-level, Arnewood School, Hampshire, 5 A grades
+High A grades (> 90%) in Physics, Maths, Further Maths, Chemistry, Biology. Several modules passed at 100%.
+- Sea Scouts (sailing or kayaking in and around the Solent). Air Cadets (Lymington Squadron)
+visiting operational air bases, flying a plane. Expedition to Siberia to watch a total solar eclipse, training on the Exmoor plains. Hike between Munich and Venice, a considerable personal challenge which took around 3 weeks to complete.
+
+**Awards and Prizes**
+- Durham Doctoral Scholarship, Durham University : Full PhD funding paid by Durham University awarded to a few students from the Faculty of Science each year, based on merit and a strong research proposal.
+- Vice Chancellor Scholarship, Durham University : A significant monetary award for outstanding academic achievement.
+- J.A. Chalmers Prize, Durham University : Graduation prize for academic results (top grade overall).
